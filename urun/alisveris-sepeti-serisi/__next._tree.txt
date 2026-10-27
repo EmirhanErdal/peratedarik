@@ -1,0 +1,6 @@
+:HL["/peratedarik/_next/static/chunks/2qfmrm2iga2kw.css","style"]
+:HL["/peratedarik/_next/static/media/1bffadaabf893a1e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/peratedarik/_next/static/media/6ab0db14f70d8ed6-s.p.13hnt-xgp82zk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/peratedarik/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/peratedarik/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"urun","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"alisveris-sepeti-serisi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"KKkkfuW6btl3Kun1hrxdO"}
